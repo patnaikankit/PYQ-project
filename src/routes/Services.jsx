@@ -1,4 +1,5 @@
 import React from 'react'
+import Navbar from '../components/Navbar'
 
 const Services = () => {
       
@@ -19,6 +20,7 @@ const Services = () => {
   
     <div>
       <h1>
+      <Navbar />
         Services
       </h1>
     </div>
